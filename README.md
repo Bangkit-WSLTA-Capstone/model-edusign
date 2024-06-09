@@ -18,6 +18,7 @@ For the Edusign ASL alphabet model, we are using a dataset that contains 27,000 
 For the Edusign ASL letter model, ..
 
 For the Edusign ASL alphabet model, we're using EfficientNetV2B1 as a base model, which has been pretrained with ImageNet weights. After the base model, we add a batch normalization layer, a flatten layer, two dense layers, and one dropout layer, followed by the output layer. 
+
 Since the model is too large for this repository, here is a link to the model: https://drive.google.com/file/d/1qId1eOfKBfZBW4S8yuEDkObGpow1DUYg/view?usp=sharing
 
 # Requirements
