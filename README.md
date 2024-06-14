@@ -19,7 +19,7 @@ For the Edusign WLASL letter model, we use a model architecture structured as fo
 - Channel Addition Layer: A layer to add new channels to the input data.
 - Base Model: EfficientNetV2B1 pretrained on ImageNet.
 - Global Average Pooling 2D: A pooling layer to reduce each feature map to a single value.
-- Early Late Dropout: Dropout layers for regularization, applied both before and after certain epoch.
+- Early Late Dropout: Dropout layers for regularization, applying different dropout rates before and after a certain epoch.
 - Output Layer: The final layer to produce the classification output.
 
 Since the model is too large for this repository, here is a link to the model: https://drive.google.com/drive/folders/17nspZZdu3bRWVUu10_xaDrBFMEO8_FC0?usp=sharing
