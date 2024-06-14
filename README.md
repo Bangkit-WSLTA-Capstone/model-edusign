@@ -9,10 +9,6 @@ For the Edusign ASL letter model, we are combining three datasets: the Google AS
 - https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
 - https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized
 
-For the Edusign ASL alphabet model, we are using a dataset that contains 27,000 images, each with a size of 512x512 pixels. The data is divided into training and testing sets, with each set containing 27 folders representing the 27 labels.
-
-- https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet/data 
-
 # Research Method
 
 # Model Architecture
