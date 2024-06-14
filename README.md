@@ -3,10 +3,11 @@
 This project aims to translate American Sign Language (ASL) videos into text using landmark detection and machine learning models in Python and TensorFlow. The project involves extracting frames from the video, applying landmark detection to these frames, and predicting the sign language based on the processed video frames.
 
 # Dataset
-For the Edusign ASL letter model, we are combining two datasets: the Google ASL dataset and the WASL dataset. The combined dataset includes 78,501 videos with 201 labels. This merger enhances the model's accuracy and robustness by leveraging the strengths of both datasets.
+For the Edusign ASL letter model, we are combining three datasets: the Google ASL dataset and two WLASL datasets. The combined dataset includes 78,501 videos with 201 labels. This merger enhances the model's accuracy and robustness by leveraging the strengths of all three datasets.
 
 - https://www.kaggle.com/competitions/asl-signs
 - https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
+- https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized
 
 For the Edusign ASL alphabet model, we are using a dataset that contains 27,000 images, each with a size of 512x512 pixels. The data is divided into training and testing sets, with each set containing 27 folders representing the 27 labels.
 
