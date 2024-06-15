@@ -27,7 +27,7 @@ For the Edusign WLASL letter model, we use a model architecture structured as fo
 Since the model is too large for this repository, here is a link to the model: https://drive.google.com/drive/folders/17nspZZdu3bRWVUu10_xaDrBFMEO8_FC0?usp=sharing
 
 # Requirements
-- Python
+- Python 3.11.9
 - Pandas
 - Numpy 1.26.4
 - Sklearn (scikit-learn)
