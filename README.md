@@ -28,14 +28,14 @@ Since the model is too large for this repository, here is a link to the model: h
 
 # Requirements
 - Python 3.11.9
-- Pandas
+- Pandas 2.2.2
 - Numpy 1.26.4
 - Sklearn (scikit-learn)
 - MediaPipe 0.10.14
 - TensorFlow 2.14.0
 - OpenCV 4.9.0.80
-- Matplotlib
-- Tqdm
+- Matplotlib 3.8.4
+- Tqdm 4.66.2
 
 # Usage
 
