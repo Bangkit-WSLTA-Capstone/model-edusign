@@ -11,8 +11,6 @@ For the Edusign ASL letter model, we are combining three datasets: the Google AS
 
 This merger enhances the model's accuracy and robustness by leveraging the strengths of all three datasets.
 
-# Research Method
-
 # Model Architecture
 For the Edusign WLASL letter model, we use a model architecture structured as follows:
 
@@ -36,10 +34,6 @@ Since the model is too large for this repository, here is a link to the model: h
 - OpenCV 4.9.0.80
 - Matplotlib 3.8.4
 - Tqdm 4.66.2
-
-# Usage
-
-# References
 
 # Authors
 
