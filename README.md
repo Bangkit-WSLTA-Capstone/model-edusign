@@ -1,4 +1,4 @@
-# Edusign Model - American Sign Languange Translation
+# Edusign Model - American Sign Language Translation
 
 This project aims to translate American Sign Language (ASL) videos into text using landmark detection and machine learning models in Python and TensorFlow. The project involves extracting frames from the video, applying landmark detection to these frames, and predicting the sign language based on the processed video frames.
 
